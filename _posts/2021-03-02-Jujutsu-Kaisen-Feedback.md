@@ -1,5 +1,5 @@
 ---
-title: "Jujutsu Kaisen Feedback"
+title: "Jujutsu Kaisen"
 date: 2021-03-02
 ---
 
